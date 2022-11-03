@@ -14,13 +14,11 @@ const Billing = () => (
 
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        Easily control your <br className="sm:block hidden" /> billing &
-        invoicing
+        Hemat waktu <br className="sm:block hidden" /> Uang &
+        Tenaga
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Elit enim sed massa etiam. Mauris eu adipiscing ultrices ametodio
-        aenean neque. Fusce ipsum orci rhoncus aliporttitor integer platea
-        placerat.
+        Pusing karena harga laundry bikin kantong kering? Tenang dengan CuciIn kamu bisa mencuci pakaianmu dengan opsi harga termurah tanpa ribet
       </p>
 
       <div className="flex flex-row flex-wrap sm:mt-10 mt-6">

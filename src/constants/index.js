@@ -8,15 +8,15 @@ export const navLinks = [
   {
     id: "features",
     title: "Features",
-  },
+  },  
   {
     id: "product",
-    title: "Product",
+    title: "Cuciin",
   },
-  {
-    id: "clients",
-    title: "Clients",
-  },
+  // {
+  //   id: "clients",
+  //   title: "Clients",
+  // },
 ];
 
 export const features = [
@@ -74,38 +74,38 @@ export const stats = [
   {
     id: "stats-1",
     title: "User Active",
-    value: "3800+",
+    value: "1000+",
   },
   {
     id: "stats-2",
     title: "Trusted by Company",
-    value: "230+",
+    value: "250+",
   },
   {
     id: "stats-3",
-    title: "Transaction",
-    value: "$230M+",
+    title: "Rated",
+    value: "4.8+",
   },
 ];
 
 export const footerLinks = [
   {
-    title: "Useful Links",
+    title: "CuciIn",
     links: [
       {
-        name: "Content",
+        name: "Home",
         link: "#",
       },
       {
-        name: "How it Works",
+        name: "Product",
         link: "#",
       },
       {
-        name: "Create",
+        name: "Features",
         link: "#",
       },
       {
-        name: "Explore",
+        name: "About",
         link: "#",
       },
       {
@@ -115,27 +115,27 @@ export const footerLinks = [
     ],
   },
   {
-    title: "Community",
+    title: "Social Media",
     links: [
       {
-        name: "Help Center",
-        link: "https://www.hoobank.com/help-center/",
+        name: "Instagram",
+        link: "#",
       },
       {
-        name: "Partners",
-        link: "https://www.hoobank.com/partners/",
+        name: "Facebook",
+        link: "#",
       },
       {
-        name: "Suggestions",
-        link: "https://www.hoobank.com/suggestions/",
+        name: "Twitter",
+        link: "#",
       },
       {
-        name: "Blog",
-        link: "https://www.hoobank.com/blog/",
+        name: "LinkedIn",
+        link: "#",
       },
       {
         name: "Newsletters",
-        link: "https://www.hoobank.com/newsletters/",
+        link: "#",
       },
     ],
   },
@@ -144,11 +144,11 @@ export const footerLinks = [
     links: [
       {
         name: "Our Partner",
-        link: "https://www.hoobank.com/our-partner/",
+        link: "#",
       },
       {
         name: "Become a Partner",
-        link: "https://www.hoobank.com/become-a-partner/",
+        link: "#",
       },
     ],
   },
